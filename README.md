@@ -42,7 +42,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌌 Project Alpha — E-Commerce Engine</h4>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms5bXpxYXZ3b21kc2FkMHVpZXN5bWN6NXNnd3M5MGkyZHhzMHVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2UL04/giphy.gif" width="100%" alt="E-Commerce System Wireframe" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM290N2NidXN4N3M0MnpsbndwM3F0bndpOHg0bW80b3g1M3A1OHV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss0b9X95gHnO/giphy.gif" width="100%" alt="Coding Animation for Project Alpha" />
       <p>A highly scalable e-commerce microservices engine running on Node.js and Docker, optimized for low latency.</p>
       <p>
         <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
