@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Harsh Devaliya
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0Z3Rib3I1Y2ZlbXNoOHVpMms1N3N6NmszM2t5bml4M3Zid3IwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="450" alt="Tech Architecture Loop"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5bXp1bmtwYWN5N3R5ZHdid3FwYmN4M3pxNDV6dTg0OHlsYmN6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgI19I1A8Si590crw8/giphy.gif" width="400" alt="Developer Coding Animation"/>
 </p>
 
 ---
@@ -23,17 +22,14 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Frontend-HTML5%20%26%20CSS3-blue?style=for-the-badge&logo=html5" alt="HTML5 & CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   
-  <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-Data%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
   
-  <!-- Tools & Devops -->
   <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
 </p>
@@ -70,12 +66,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&align=center" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&align=center" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&align=center" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
