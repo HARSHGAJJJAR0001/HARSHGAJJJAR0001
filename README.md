@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Harsh Devaliya
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solvers;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0Z3Rib3I1Y2ZlbXNoOHVpMms1N3N6NmszM2t5bml4M3Zid3IwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="450" alt="Tech Architecture Loop"/>
 </p>
 
 ---
@@ -41,7 +46,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌌 Project Alpha — E-Commerce Engine</h4>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptY2VtcTRnY3p1azByYm90ZjFidnp5Yzh3N2FnaDN0MnNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Project Preview" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms5bXpxYXZ3b21kc2FkMHVpZXN5bWN6NXNnd3M5MGkyZHhzMHVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2UL04/giphy.gif" width="100%" alt="E-Commerce System Wireframe" />
       <p>A highly scalable e-commerce microservices engine running on Node.js and Docker, optimized for low latency.</p>
       <p>
         <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
@@ -50,7 +55,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Project Beta — Analytics Dashboard</h4>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwMHpneXNmdHkyNjZnaWZ5ODFpM2syZDV2dnN5dnZ2bWc5YWtsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMgcyf8I7m70I0/giphy.gif" width="100%" alt="Dashboard Preview" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh0NDN5OHYwMXFid3lyNGNidXo4eHdudThzZGs3bTZidmQxMHZmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Data Processing Interface" />
       <p>Real-time telemetry and cloud data processing pipeline utilizing Python, WebSockets, and React.</p>
       <p>
         <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
@@ -80,10 +85,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:harshdevaliya1003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
