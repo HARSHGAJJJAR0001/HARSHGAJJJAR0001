@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;+I'm+[Harsh Devaliya];+Welcome+to+my+profile!" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;+I'm+Harsh+Devaliya;+Welcome+to+my+profile!" alt="Typing Effect" />
 </p>
 
 <!-- Subtitle / Quick Bio Banner -->
@@ -18,10 +18,10 @@
 
 <samp>
 ⚡ I am a passionate software creator who loves building scalable applications and sleek user interfaces.  
-🔭 I’m currently working on **[Name of your main project]**  
+🔭 I’m currently working on **[OFFLY]**  
 🌱 I’m currently learning **[A new tech stack, e.g., Rust, NextJS 15]**  
 💬 Ask me about **[Your expertise, e.g., React, Backend Architecture, Devops]**  
-📫 How to reach me: **[your.email@example.com]**  
+📫 How to reach me: harshdevaliya10003@gmail.com  
 </samp>
 
 ---
